@@ -1,5 +1,8 @@
 # NewtonsZeroCalc
 Zero Calculator based on Newtons Method of Approximation.  
+
+![Screenshot](Screenshot.png?raw=true "Screenshot of the program running")
+
 Done as an assignment for my AP Calculus class.  
 I used NetBeans GUI builder and the exp4j library.  
 I was considering building my own expression parser using RPN and shunting yard, but it would have been too much of a pain, soI used exp4j.  
