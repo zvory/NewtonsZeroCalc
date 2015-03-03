@@ -1,7 +1,7 @@
 # NewtonsZeroCalc
 Zero Calculator based on Newtons Method of Approximation.  
 
-![Screenshot](Screenshot.png?raw=true "Screenshot of the program running")
+![Screenshot](https://raw.githubusercontent.com/zvory/NewtonsZeroCalc/master/Screenshot.png)
 
 Done as an assignment for my AP Calculus class.  
 I used NetBeans GUI builder and the exp4j library.  
