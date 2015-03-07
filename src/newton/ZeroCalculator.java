@@ -17,9 +17,12 @@ class ZeroCalculator {
      */
     private double evaluate(String function, double x) {
         Expression e = new ExpressionBuilder(function)
-        .variable("x")
+        .variables("x","e","pi","π")
         .build()
-        .setVariable("x", x);
+        .setVariable("x", x)
+        .setVariable("π", Math.PI)
+        .setVariable("e", Math.E)
+        .setVariable("pi", Math.PI);
         double result = e.evaluate();
         return result;
     }
