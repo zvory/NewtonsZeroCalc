@@ -18,7 +18,7 @@ public class NewtonsMethodUI extends javax.swing.JFrame {
      */
     public NewtonsMethodUI() {
         initComponents();
-        setTitle("Newtons Method of Approximations by Alex Z.");
+        setTitle("Newtons Method of Approximations by Alexander Z.");
     }
 
     /**
